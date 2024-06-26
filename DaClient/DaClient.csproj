@@ -32,16 +32,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="OpcComRcw, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
-      <HintPath>..\packages\OpcComRcw.2.1.109\lib\net46\OpcComRcw.dll</HintPath>
+      <HintPath>..\packages\OpcComRcw.2.1.108\lib\net46\OpcComRcw.dll</HintPath>
     </Reference>
     <Reference Include="OpcNetApi, Version=2.1.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
-      <HintPath>..\packages\OpcNetApi.2.1.109\lib\net46\OpcNetApi.dll</HintPath>
+      <HintPath>..\packages\OpcNetApi.2.1.108\lib\net46\OpcNetApi.dll</HintPath>
     </Reference>
     <Reference Include="OpcNetApi.Com, Version=2.1.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
-      <HintPath>..\packages\OpcNetApi.Com.2.1.109\lib\net46\OpcNetApi.Com.dll</HintPath>
+      <HintPath>..\packages\OpcNetApi.Com.2.1.108\lib\net46\OpcNetApi.Com.dll</HintPath>
     </Reference>
     <Reference Include="OpcNetApi.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9a40e993cbface53, processorArchitecture=MSIL">
-      <HintPath>..\packages\OpcNetApi.Xml.2.1.109\lib\net40\OpcNetApi.Xml.dll</HintPath>
+      <HintPath>..\packages\OpcNetApi.Xml.2.1.108\lib\net40\OpcNetApi.Xml.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

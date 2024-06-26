@@ -2,6 +2,7 @@
 using Opc.Ua.Server;
 using System.Security.Cryptography.X509Certificates;
 using Common;
+using System.Collections.Generic;
 
 namespace UaServer
 {
@@ -150,7 +151,7 @@ namespace UaServer
                     CertificateValidator.Validate(certificate);
                 }
             }
-            catch (Exception e)
+            catch (System.Exception e)
             {
                 TranslationInfo info;
                 StatusCode result = StatusCodes.BadIdentityTokenRejected;
